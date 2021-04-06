@@ -8,4 +8,4 @@ You can use
 import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior()
 ```
-as stated in this [Stackoverflow thread](https://stackoverflow.com/questions/57614436/od-graph-def-tf-graphdef-attributeerror-module-tensorflow-has-no-attribut).
+as stated in this [Stackoverflow thread](https://stackoverflow.com/questions/57614436/od-graph-def-tf-graphdef-attributeerror-module-tensorflow-has-no-attribut) if you have Tensorflow v2.x
