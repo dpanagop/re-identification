@@ -1,5 +1,9 @@
 # re-identification
 Person re-identification
+Python code that:
+- crops boxes containig persons from images
+- given two such images, decides whether they display the same person or not using a neural network.
+
 Folder min_viable_example contains a Jupyter notebook optimised for Google's colab as Proof of Working example
 
 Please note that the code is written in Tensorflow v1.x
